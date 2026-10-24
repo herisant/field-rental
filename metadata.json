@@ -1,0 +1,6 @@
+{
+  "name": "GeloraHub - Sewa Lapangan Futsal & Badminton",
+  "description": "Aplikasi pemesanan slot waktu sewa lapangan futsal dan badminton secara real-time dengan jadwal interaktif, konfirmasi instan, dan tiket digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
